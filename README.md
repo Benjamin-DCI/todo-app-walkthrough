@@ -1,6 +1,6 @@
-# React To-do List
+# React To-do App
 
-Following this tutorial you'll review those topics:
+Following this tutorial you'll review these topics:
 
 - Setup a React App using React Script
 - Writing HTML with JSX
